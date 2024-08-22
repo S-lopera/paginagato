@@ -21,3 +21,6 @@
 * 3: Verificacion de compatibilidad
 * 4: Verificacion de resultados
 * 5: informe final
+
+## QA asignado
+Marlon david palacios
